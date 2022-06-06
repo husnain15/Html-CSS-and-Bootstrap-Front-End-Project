@@ -138,8 +138,7 @@ li a {
 }
 
 .bgimage1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
-    url("https://mdbcdn.b-cdn.net/img/new/fluid/nature/012.webp");
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url("");
   height: auto;
   width: 100%;
   color: white;
